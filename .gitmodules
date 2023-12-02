@@ -1,3 +1,6 @@
 [submodule "verdeapp-frontend"]
 	path = verdeapp-frontend
 	url = https://github.com/yandv/verdeapp-frontend.git
+[submodule "verdeapp-backend"]
+	path = verdeapp-backend
+	url = https://github.com/yandv/verdeapp-backend.git
